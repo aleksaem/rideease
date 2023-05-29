@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785680133674",
+    "project_id": "rider-app-816e0",
+    "storage_bucket": "rider-app-816e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785680133674:android:93c54304ac692945995d53",
+        "android_client_info": {
+          "package_name": "com.example.riderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD2OsOX4wanPlmILWCuSHwTtqZrApAa-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
